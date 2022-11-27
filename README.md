@@ -12,4 +12,12 @@ manually. Alternatively, they may apply an algorithm which will analyze images a
 number of animals in given images. Thus, the goal
 of this project is to evaluate the number of animals
 in a sequence of images taken from Camera Traps.
+### Application
+To start a server run these commands:
+```bash
+$ docker-compose build
+$ docker-compose up
+```
+### Test using Postman
+![img.png](postman.png)
 ### Dataset: [Kaggle competition](https://www.kaggle.com/competitions/iwildcam2022-fgvc9/data)

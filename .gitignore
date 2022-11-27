@@ -1,2 +1,5 @@
 data/
 .idea/
+
+tuning/yolov5/
+tuning/runs/test/

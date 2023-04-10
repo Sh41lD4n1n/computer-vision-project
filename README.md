@@ -1,3 +1,4 @@
+![](CV_picture.png)
 # YOLO based application for object detection
 ##### We will have a implementaiton of YOLO model and deployment of this model.
 Why is it important to control the population of
